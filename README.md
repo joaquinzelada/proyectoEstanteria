@@ -1,9 +1,9 @@
 # proyectoEstanteria
-#Ayer a la noche tenia ganas de hacer algo en Java, y se me ocurrió esta estantería sencilla
-#Es simple, aún no me acostumbro a las clases y objetos asique no me fui por el camino de hacer un class libros
+Ayer a la noche tenia ganas de hacer algo en Java, y se me ocurrió esta estantería sencilla
+Es simple, aún no me acostumbro a las clases y objetos asique no me fui por el camino de hacer un class libros
 
 # EJECUCIÓN DEL PROGRAMA:
-# en bash (terminal), ejecuta estos comandos:
+# en bash (terminal), ejecutá estos comandos:
 ```bash
 git clone https://github.com/joaquinzelada/proyectoEstanteria.git
 cd proyectoEstanteria
